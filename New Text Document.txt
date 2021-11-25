@@ -1,0 +1,1 @@
+https://au.finance.yahoo.com/quote/CL%3DF/history?period1=946684800&period2=1595980800&interval=1wk&filter=history&frequency=1wk
